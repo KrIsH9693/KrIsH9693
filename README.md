@@ -1,88 +1,81 @@
-# 👋 Hi, I'm Krishna
+# 👋 Hi, I'm Krishna  
 
-🚀 **Frontend Developer | UI/UX Enthusiast | Problem Solver**
+🚀 **Frontend Developer | UI/UX Enthusiast | Problem Solver**  
 
----
-
-## 🌟 About Me
-
-* 💻 Passionate **Frontend Developer**
-* ⚡ Love building modern & responsive web apps
-* 🎯 Skilled in both **Frontend & Backend basics**
-* 🔥 Always learning & improving
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Apps;React+Developer;UI%2FUX+Focused;Always+Learning+New+Things" />
 
 ---
 
-## 🛠 Tech Stack
+## 🌟 About Me  
 
-### 💻 Frontend
-
-* ⚛️ React
-* 🌐 HTML | CSS | JavaScript
-* 🎨 Bootstrap | Tailwind CSS
-
-### 🧠 Backend
-
-* 🐍 Python | Flask
-* 🗄 SQL Server Management Studio
-
-### 🧰 Tools & Platforms
-
-* 🖥 VS Code
-* 📬 Postman | Swagger
-* 🚀 Vercel
-* 🎨 Figma | Photoshop | CorelDRAW
-* 🔧 Git & GitHub
+💻 Passionate **Frontend Developer**  
+⚡ Love building **modern, responsive & scalable web apps**  
+🎯 Strong foundation in **Frontend + Backend basics**  
+🔥 Constantly learning & improving my skills  
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Stack  
 
-### 🔹 Personal Portfolio
+### 💻 Frontend  
+⚛️ React  
+🌐 HTML | CSS | JavaScript  
+🎨 Bootstrap | Tailwind CSS  
 
-🌐 https://personal-portfolio-nu-mauve-99.vercel.app/
+### 🧠 Backend  
+🐍 Python | Flask  
+🗄 SQL Server Management Studio  
 
----
-
-### 🔹 Finance Dashboard
-
-📊 https://finance-dash-board-opal.vercel.app/
-
----
-
-### 🔹 Channel Manager
-
-📺 https://channel-manager-sable.vercel.app/
-
----
-
-### 🔹 Shaadi Bio Data Generator
-
-💍 https://shaadi-bio-data.vercel.app/
+### 🧰 Tools & Platforms  
+🖥 VS Code  
+📬 Postman | Swagger  
+🚀 Vercel  
+🎨 Figma | Photoshop | CorelDRAW  
+🔧 Git & GitHub  
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects  
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=
-KrIsH9693\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=
-KrIsH9693\&layout=compact\&theme=tokyonight)
+### 🔹 Personal Portfolio  
+🌐 https://personal-portfolio-nu-mauve-99.vercel.app/  
 
 ---
 
-## 🌐 Connect With Me
-
-💼 LinkedIn:
-https://www.linkedin.com/in/krishna-kumar-07015a24a
+### 🔹 Finance Dashboard  
+📊 https://finance-dash-board-opal.vercel.app/  
 
 ---
 
-## 🔥 Fun Fact
-
-💡 "Code + Creativity = Powerful UI"
+### 🔹 Channel Manager  
+📺 https://channel-manager-sable.vercel.app/  
 
 ---
 
-⭐ **If you like my work, give a star to my repositories!**
+### 🔹 Shaadi Bio Data Generator  
+💍 https://shaadi-bio-data.vercel.app/  
+
+---
+
+## 📊 GitHub Stats  
+
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrIsH9693&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrIsH9693&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me  
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/krishna-kumar-07015a24a  
+
+---
+
+## 🔥 Fun Fact  
+
+💡 *"Code + Creativity = Powerful UI"*  
+
+---
+
+⭐ **If you like my work, don't forget to star my repositories!**
