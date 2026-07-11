@@ -59,9 +59,11 @@
 
 ## 📊 GitHub Stats
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrIsH9693&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=krish9693&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrIsH9693&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish9693&layout=compact&theme=tokyonight" />
+
+---
 
 ## 🌐 Connect With Me  
 
