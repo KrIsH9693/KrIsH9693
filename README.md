@@ -59,9 +59,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=krish9693&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish9693&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KrIsH9693&theme=tokyonight&cache_seconds=1800" />
 
 ---
 
